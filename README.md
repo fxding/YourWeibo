@@ -1,10 +1,13 @@
-#OnlineImageView
-######A category for UIImageView to show images from URLs and make cache.
+## YourWeibo
+这是自己制作设计的第一个应用, 一个微博客户端, 当前完成了微博大部分的读接口. 能够使用其作为日常的微博浏览.
+当前完成的页面包括:
++ 主页
++ 图片查看器
++ 个人页
++ 微博详情页
++ 链接浏览器
 
-+ Usage <br/>
-<pre>
-<code>#import "UIImageView+OnlineImage.h"
-<br />/* code omiited */
-[self.imageView setOnlineImage:IMAGE_URL];
-[self.imageView1 setOnlineImage:IMAGE_URL1 placeholderImage:[UIImage imageNamed:@"question_mark"]];</code>
-</pre>
+## 
+
+
+
